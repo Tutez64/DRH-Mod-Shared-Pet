@@ -1,0 +1,10 @@
+{
+  "id": "shared_pet",
+  "name": "Shared Pet",
+  "description": "What the mod does, in one line.",
+  "version": "0.1.0",
+  "author": "Tutez",
+  "api": "1.1",
+  "entry": "Main",
+  "uses": []
+}
