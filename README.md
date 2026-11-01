@@ -1,7 +1,9 @@
 # Shared Pet
 
-A mod for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe), made from [DRH-Mods-Template](https://github.com/Tutez64/DRH-Mods-Template): [Making a mod](https://github.com/Tutez64/Dungeon-Rampage-Haxe/blob/master/docs/making-a-mod.md) gives the next steps.
+A mod for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe): one pet for all your heroes.
 
 <!-- drh:show -->
-What the mod does and how to use it: the launcher shows this part on the mod's page.
+Your pet follows the hero you select in town: no more taking it off one hero to put it on the next. The pet that follows is the one your selected hero carries when the game starts; equip another one on the selected hero to make it follow instead, or leave the hero without a pet to stop.
+
+When you select a hero, the pet moves to it right away, and the pet that hero carried goes back to your storage.
 <!-- /drh:show -->

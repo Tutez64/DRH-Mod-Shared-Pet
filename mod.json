@@ -1,10 +1,10 @@
 {
   "id": "shared_pet",
   "name": "Shared Pet",
-  "description": "What the mod does, in one line.",
+  "description": "Your pet follows the hero you select: equip it once, and every hero you play gets it.",
   "version": "0.1.0",
   "author": "Tutez",
-  "api": "1.1",
+  "api": "1.2",
   "entry": "Main",
   "uses": []
 }
